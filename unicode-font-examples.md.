@@ -1,0 +1,18 @@
+# Unicode Text Examples
+
+Unicode characters can be used to create different text styles in supported apps and websites.
+
+## Try a font tool
+
+Use [Online Fonts Generator](https://onlinefontsgenerator.com/) to explore copy-and-paste text styles.
+
+## CSS font styling
+
+```css
+.styled-text {
+  font-family: Georgia, serif;
+  font-style: italic;
+}
+```
+
+CSS changes how text looks on a web page. Unicode styled text uses different characters, which may look different across devices.
